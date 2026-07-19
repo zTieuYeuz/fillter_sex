@@ -1,0 +1,13 @@
+!
+! Title: blocklist
+! Description: Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
+! Version: 1.0.31.65
+! Homepage: tieuyeu
+! Last modified: 2026-07-19T08:52:19.609Z
+!
+! Compiled by @adguard/hostlist-compiler v2.1.0
+!
+||x.javmup.blog^
+||s1.javvietsub18.blog^
+||s1.javvietsub18.blog^
+||phimsexvai.blog^
